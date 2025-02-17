@@ -1,0 +1,18 @@
+# Web Dev Cohort
+
+## Discord Server Link
+
+[Discord Link](https://discord.com/invite/JHYzvgDmhX)
+
+## Eraser Diagrams
+
+HTML - [HTML](https://app.eraser.io/workspace/iZgXlFx51QbosAoxqrUQ) 2 [Html Intro](https://app.eraser.io/workspace/aqaTC9ma4qmZ9CDuSriU)
+Intro To Css - [Intro To Css](https://app.eraser.io/workspace/aqaTC9ma4qmZ9CDuSriU)
+Css Grid - [Css Grid](https://app.eraser.io/workspace/pjz1SKuhQJ43kxOr63Hr)
+Polyfill - [Polyfill](https://app.eraser.io/workspace/fvOzneJ3s0olaYoetMru)
+Objects Prototypes - [Objects Prototypes](https://app.eraser.io/workspace/MSKrHtmZxpvUgZqn5qGq)
+
+# Tools
+
+Css Flexbox & Grid Challenges -  [Challenges](https://tools.chaicode.com/)
+ 
